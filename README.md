@@ -1,7 +1,6 @@
 - 👋 Hi, I’m shuja
 - 👀 I’m interested in learning new technology 
 - 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shujaurr18@gmail.com
 
 <!---
